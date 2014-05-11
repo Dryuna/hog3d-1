@@ -1,4 +1,4 @@
-#include "Video.h"
+#include <opencv/Video.h>
 
 // std
 #include <stdexcept>

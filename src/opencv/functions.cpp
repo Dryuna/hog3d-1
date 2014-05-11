@@ -1,4 +1,4 @@
-#include "functions.h"
+#include <opencv/functions.h>
 #include <opencv/cv.h>
 #include <iostream>
 #include <stdexcept>

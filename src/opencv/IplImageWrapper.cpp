@@ -1,4 +1,4 @@
-#include "IplImageWrapper.h"
+#include <opencv/IplImageWrapper.h>
 #include <geometry/Box.hpp>
 //#include <opencv/highgui.h>
 
